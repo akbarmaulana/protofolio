@@ -1,6 +1,6 @@
-# portofolio
+# Portofolio
 
-A new Flutter project.
+A basic webflutter for create web portofolio
 
 ## Getting Started
 
